@@ -1,5 +1,7 @@
 # Website of LabZhu  
 
+我电脑目前环境：[eclipse2018-09 + tomcat9.0.12 + jdk1.8.0_181 + Mysql8.0.12.0](https://github.com/Lab-of-Professor-Zhu/GitHub-and-JavaWeb-for-Windows)
+
 原模版路径：https://github.com/Lab-of-Professor-Zhu/Lab-Website-Template-reference
 
 初始界面：./springMVC/WebContent/index.html
