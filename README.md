@@ -1,5 +1,8 @@
 # Website of LabZhu  
 
+在学校时可以直接打开：http://10.3.46.253:8080/springMVC/index.html （前提：我实验室电脑正在运行tomcat）  
+不在学校时，需要先挂[学校虚拟VPN](http://www.cup.edu.cn/nic/service/106356.htm)再访问。
+
 我电脑目前环境：[eclipse2018-09 + tomcat9.0.12 + jdk1.8.0_181 + Mysql8.0.12.0](https://github.com/Lab-of-Professor-Zhu/GitHub-and-JavaWeb-for-Windows)
 
 原模版路径：https://github.com/Lab-of-Professor-Zhu/Lab-Website-Template-reference
