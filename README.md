@@ -1,6 +1,4 @@
-# Lab Website
-
-Website of LabZhu  
+# Website of LabZhu  
 
 原模版路径：https://github.com/Lab-of-Professor-Zhu/Lab-Website-Template-reference
 
