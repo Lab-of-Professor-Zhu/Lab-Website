@@ -7,6 +7,8 @@
 
 原模版路径：https://github.com/Lab-of-Professor-Zhu/Lab-Website-Template-reference
 
+我找同学写了一个MVC基础代码，逻辑很清晰，可以参考，注意每个层之间的逻辑和传输：https://github.com/Lab-of-Professor-Zhu/MVC-reference
+
 初始界面：./springMVC/WebContent/index.html
 
 我改了一些刚开始的index页面的东西，我们的功能实现都是在产品页面下，分产品1,2等。
